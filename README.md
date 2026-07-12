@@ -54,14 +54,14 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 🖥️ **Frontend Technologies** `</>`
 <hr/>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/> <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=38bdf8"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <br/>
 
 ⚙️ **Backend Technologies** `</>`
 <hr/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/BetterAuth-14b8a6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/BetterAuth-14b8a6?style=for-the-badge"/>
 
 <br/>
 
@@ -96,23 +96,22 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 
 ---
 
-### 📊 GitHub Stats
+### 🍩 Language Usage
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanzid-48&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzid-48&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
+A breakdown of the languages I write most, based on my public repositories:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanzid-48&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzid-48&layout=donut&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cbd5e1&border_radius=10&langs_count=8" width="55%"/>
 
 </div>
 
 ---
 
-### 🍩 Language Usage
+### 🔥 Streak Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzid-48&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanzid-48&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 ---
