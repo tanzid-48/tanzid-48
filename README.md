@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Md%20Tanzid%20Mondol&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/tanzid-48">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+Flutter+%7C+Java;Building+TanSeek+AI;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;%7C+MERN+%7C+TypeScript+%7C+Next.js+%7C+Java;Building+TanSeek+AI+%26+CampusCart;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,8 +14,9 @@
 
 ### 🔗 Connect with Me
 
-<a href="https://www.linkedin.com/in/tanzid-mondol-2a2456379/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tanzidmondol/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mdtanzid.525@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/8801798546510" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://github.com/tanzid-48" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
@@ -24,7 +25,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technology, Bogura, Bangladesh, specializing in the **MERN stack, Next.js, Flutter, and Java**. I love turning ideas into production-grade, full-stack applications — from database design to polished UI. Currently sharpening my problem-solving skills through daily DSA/JS challenges.
+I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technology, Bogura, Bangladesh, specializing in the **MERN stack, Next.js, TypeScript, Flutter, and Java**. I love turning ideas into production-grade, full-stack applications — from database design to polished UI. Currently sharpening my problem-solving skills through daily DSA/JavaScript challenges.
 
 📍 Bogura, Bangladesh &nbsp;|&nbsp; 📧 mdtanzid.525@gmail.com
 
@@ -33,9 +34,9 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 ### 🔭 Current Activities
 
 - 🚀 Building **TanSeek AI** — a production-ready AI chat app (Next.js, Groq/Llama, MongoDB, BetterAuth)
-- 🛒 Building **CampusCart** — a full-stack secondhand marketplace for students (Next.js 15, TypeScript, MongoDB Atlas)
-- 📘 Learning **TypeScript** — progressing from primitives through generics and React/Next.js-specific patterns
+- 🛍️ Built **CampusCart** — a full-stack secondhand marketplace, my first hands-on project learning **TypeScript**
 - 🧩 Solving daily problems for my **#100DaysOfJS** challenge — tracked and organized on GitHub
+- 📖 Exploring advanced **Next.js 16** App Router patterns
 - 🎓 Working on my final year thesis and project report
 - 🌱 Sharpening DSA skills on LeetCode
 
@@ -60,7 +61,7 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 ⚙️ **Backend Technologies** `</>`
 <hr/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/BetterAuth-14b8a6?style=for-the-badge"/>
 
 <br/>
 
@@ -75,7 +76,7 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 
 | Project | Description | Tech Stack | Live Link |
 |---|---|---|---|
-| **CampusCart** | A secondhand marketplace for students — verified listings, seller ratings, and safe on-campus meetups, replacing untrustworthy Facebook group posts | Next.js 15, TypeScript, MongoDB Atlas, BetterAuth, Tailwind CSS | [Live](https://campus-cart-seven-zeta.vercel.app/) |
+| **CampusCart** | Secondhand marketplace for students — verified listings, seller ratings, and safe on-campus meetups, replacing untrustworthy Facebook group posts | Next.js 15, TypeScript, MongoDB Atlas, BetterAuth, Tailwind CSS | [Live](https://campus-cart-seven-zeta.vercel.app/) |
 | **TanSeek AI** | Production-ready AI chat app with streaming responses, edit & resubmit, and Google OAuth | Next.js, MongoDB, BetterAuth, Groq | [Live](#) |
 | **Bangla Lang** | A web tool/project focused on the Bangla language | HTML, CSS, JavaScript | [Live](https://tanzid-48.github.io/bangla-lang/) |
 | **LifeVault** | Life lessons sharing platform with likes, comments, and premium Stripe upgrade | Next.js, Express, MongoDB, Stripe | [Live](https://life-vault-smoky.vercel.app/) |
@@ -95,14 +96,6 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 
 ---
 
-### 🥧 Language Usage
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzid-48&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="60%"/>
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -112,6 +105,14 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanzid-48&theme=tokyonight&hide_border=true" width="60%"/>
 
+</div>
+
+---
+
+### 🍩 Language Usage
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzid-48&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="60%"/>
 </div>
 
 ---
