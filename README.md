@@ -99,14 +99,6 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:06b6d4&height=3&section=header" width="100%"/>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tanzid-48&theme=algolia&no-frame=true&row=1&column=6" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:06b6d4&height=3&section=header" width="100%"/>
-
 ### 🍩 Language Usage
 
 <div align="center">
@@ -134,16 +126,6 @@ A breakdown of the languages I write most, based on my public repositories:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:06b6d4&height=3&section=header" width="100%"/>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanzid-48/tanzid-48/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanzid-48/tanzid-48/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tanzid-48/tanzid-48/output/github-contribution-grid-snake.svg" width="95%"/>
-</picture>
-</div>
 
 <div align="center">
 
