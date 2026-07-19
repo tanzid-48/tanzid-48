@@ -47,47 +47,27 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 
 **Languages**
 
-| Logo | Skill |
-|:---:|---|
-| <img src="https://skillicons.dev/icons?i=js" width="32"/> | JavaScript |
-| <img src="https://skillicons.dev/icons?i=ts" width="32"/> | TypeScript |
-| <img src="https://skillicons.dev/icons?i=cpp" width="32"/> | C++ |
-| <img src="https://skillicons.dev/icons?i=c" width="32"/> | C |
-| <img src="https://skillicons.dev/icons?i=java" width="32"/> | Java |
-| <img src="https://skillicons.dev/icons?i=dart" width="32"/> | Dart |
-| <img src="https://skillicons.dev/icons?i=python" width="32"/> | Python |
+| <img src="https://skillicons.dev/icons?i=js" width="40"/> | <img src="https://skillicons.dev/icons?i=ts" width="40"/> | <img src="https://skillicons.dev/icons?i=cpp" width="40"/> | <img src="https://skillicons.dev/icons?i=c" width="40"/> | <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=dart" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <sub>JavaScript<br/>⭐⭐⭐⭐⭐</sub> | <sub>TypeScript<br/>⭐⭐⭐⭐☆</sub> | <sub>C++<br/>⭐⭐⭐☆☆</sub> | <sub>C<br/>⭐⭐⭐☆☆</sub> | <sub>Java<br/>⭐⭐⭐☆☆</sub> | <sub>Dart<br/>⭐⭐⭐☆☆</sub> | <sub>Python<br/>⭐⭐☆☆☆</sub> |
 
 **Frontend**
 
-| Logo | Skill |
-|:---:|---|
-| <img src="https://skillicons.dev/icons?i=nextjs" width="32"/> | Next.js |
-| <img src="https://skillicons.dev/icons?i=react" width="32"/> | React |
-| <img src="https://skillicons.dev/icons?i=tailwind" width="32"/> | Tailwind CSS |
-| <img src="https://skillicons.dev/icons?i=html" width="32"/> | HTML5 |
-| <img src="https://skillicons.dev/icons?i=css" width="32"/> | CSS3 |
-| <img src="https://skillicons.dev/icons?i=flutter" width="32"/> | Flutter |
+| <img src="https://skillicons.dev/icons?i=nextjs" width="40"/> | <img src="https://skillicons.dev/icons?i=react" width="40"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=css" width="40"/> | <img src="https://skillicons.dev/icons?i=flutter" width="40"/> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <sub>Next.js<br/>⭐⭐⭐⭐⭐</sub> | <sub>React<br/>⭐⭐⭐⭐⭐</sub> | <sub>Tailwind<br/>⭐⭐⭐⭐⭐</sub> | <sub>HTML5<br/>⭐⭐⭐⭐⭐</sub> | <sub>CSS3<br/>⭐⭐⭐⭐☆</sub> | <sub>Flutter<br/>⭐⭐⭐☆☆</sub> |
 
 **Backend**
 
-| Logo | Skill |
-|:---:|---|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="32"/> | Node.js |
-| <img src="https://skillicons.dev/icons?i=express" width="32"/> | Express.js |
-| <img src="https://skillicons.dev/icons?i=mongodb" width="32"/> | MongoDB |
-| <img src="https://skillicons.dev/icons?i=mysql" width="32"/> | MySQL |
-| <img src="https://skillicons.dev/icons?i=firebase" width="32"/> | Firebase |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> | <img src="https://skillicons.dev/icons?i=express" width="40"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> | <img src="https://skillicons.dev/icons?i=firebase" width="40"/> |
+|:---:|:---:|:---:|:---:|:---:|
+| <sub>Node.js<br/>⭐⭐⭐⭐⭐</sub> | <sub>Express<br/>⭐⭐⭐⭐⭐</sub> | <sub>MongoDB<br/>⭐⭐⭐⭐⭐</sub> | <sub>MySQL<br/>⭐⭐⭐☆☆</sub> | <sub>Firebase<br/>⭐⭐⭐☆☆</sub> |
 
 **Tools**
 
-| Logo | Skill |
-|:---:|---|
-| <img src="https://skillicons.dev/icons?i=git" width="32"/> | Git |
-| <img src="https://skillicons.dev/icons?i=github" width="32"/> | GitHub |
-| <img src="https://skillicons.dev/icons?i=vscode" width="32"/> | VS Code |
-| <img src="https://skillicons.dev/icons?i=vercel" width="32"/> | Vercel |
-| <img src="https://skillicons.dev/icons?i=postman" width="32"/> | Postman |
-| <img src="https://skillicons.dev/icons?i=figma" width="32"/> | Figma |
+| <img src="https://skillicons.dev/icons?i=git" width="40"/> | <img src="https://skillicons.dev/icons?i=github" width="40"/> | <img src="https://skillicons.dev/icons?i=vscode" width="40"/> | <img src="https://skillicons.dev/icons?i=vercel" width="40"/> | <img src="https://skillicons.dev/icons?i=postman" width="40"/> | <img src="https://skillicons.dev/icons?i=figma" width="40"/> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <sub>Git<br/>⭐⭐⭐⭐⭐</sub> | <sub>GitHub<br/>⭐⭐⭐⭐⭐</sub> | <sub>VS Code<br/>⭐⭐⭐⭐⭐</sub> | <sub>Vercel<br/>⭐⭐⭐⭐☆</sub> | <sub>Postman<br/>⭐⭐⭐⭐☆</sub> | <sub>Figma<br/>⭐⭐⭐☆☆</sub> |
 
 <br/>
 
