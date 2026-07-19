@@ -45,8 +45,22 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 
 ### 🛠️ Skills
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,dart,react,nextjs,tailwind,flutter,html,css,nodejs,express,mongodb,mysql,firebase,git,github,vercel,vscode,postman,figma&theme=dark" />
+**Languages**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,dart&theme=dark" />
+</div>
+
+**Frontend**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css&theme=dark" />
+</div>
+
+**Backend & Tools**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,git,github,vercel,vscode,postman,figma&theme=dark" />
 </div>
 
 <br/>
