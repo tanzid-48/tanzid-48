@@ -45,29 +45,49 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 
 ### 🛠️ Skills
 
-**Languages** &nbsp;<sub>*most comfortable with JavaScript & TypeScript*</sub>
+**Languages**
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,dart&theme=dark" />
-</div>
+| Logo | Skill | Level |
+|:---:|---|---|
+| <img src="https://skillicons.dev/icons?i=js" width="32"/> | JavaScript | ⭐⭐⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=ts" width="32"/> | TypeScript | ⭐⭐⭐⭐☆ |
+| <img src="https://skillicons.dev/icons?i=cpp" width="32"/> | C++ | ⭐⭐⭐☆☆ |
+| <img src="https://skillicons.dev/icons?i=c" width="32"/> | C | ⭐⭐⭐☆☆ |
+| <img src="https://skillicons.dev/icons?i=java" width="32"/> | Java | ⭐⭐⭐☆☆ |
+| <img src="https://skillicons.dev/icons?i=dart" width="32"/> | Dart | ⭐⭐⭐☆☆ |
+| <img src="https://skillicons.dev/icons?i=python" width="32"/> | Python | ⭐⭐☆☆☆ |
 
-**Frontend** &nbsp;<sub>*daily driver: Next.js + Tailwind*</sub>
+**Frontend**
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css&theme=dark" />
-</div>
+| Logo | Skill | Level |
+|:---:|---|---|
+| <img src="https://skillicons.dev/icons?i=nextjs" width="32"/> | Next.js | ⭐⭐⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=react" width="32"/> | React | ⭐⭐⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=tailwind" width="32"/> | Tailwind CSS | ⭐⭐⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=html" width="32"/> | HTML5 | ⭐⭐⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=css" width="32"/> | CSS3 | ⭐⭐⭐⭐☆ |
+| <img src="https://skillicons.dev/icons?i=flutter" width="32"/> | Flutter | ⭐⭐⭐☆☆ |
 
-**Backend** &nbsp;<sub>*daily driver: Express + MongoDB*</sub>
+**Backend**
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
-</div>
+| Logo | Skill | Level |
+|:---:|---|---|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="32"/> | Node.js | ⭐⭐⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=express" width="32"/> | Express.js | ⭐⭐⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=mongodb" width="32"/> | MongoDB | ⭐⭐⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=mysql" width="32"/> | MySQL | ⭐⭐⭐☆☆ |
+| <img src="https://skillicons.dev/icons?i=firebase" width="32"/> | Firebase | ⭐⭐⭐☆☆ |
 
 **Tools**
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,figma&theme=dark" />
-</div>
+| Logo | Skill | Level |
+|:---:|---|---|
+| <img src="https://skillicons.dev/icons?i=git" width="32"/> | Git | ⭐⭐⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=github" width="32"/> | GitHub | ⭐⭐⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=vscode" width="32"/> | VS Code | ⭐⭐⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=vercel" width="32"/> | Vercel | ⭐⭐⭐⭐☆ |
+| <img src="https://skillicons.dev/icons?i=postman" width="32"/> | Postman | ⭐⭐⭐⭐☆ |
+| <img src="https://skillicons.dev/icons?i=figma" width="32"/> | Figma | ⭐⭐⭐☆☆ |
 
 <br/>
 
