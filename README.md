@@ -47,9 +47,9 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 
 **Languages**
 
-| <img src="https://skillicons.dev/icons?i=c" width="40"/> | <img src="https://skillicons.dev/icons?i=cpp" width="40"/> | <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=js" width="40"/> | <img src="https://skillicons.dev/icons?i=ts" width="40"/> | <img src="https://skillicons.dev/icons?i=dart" width="40"/> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| C | C++ | Java | Python | JavaScript | TypeScript | Dart |
+| <img src="https://skillicons.dev/icons?i=c" width="40"/> | <img src="https://skillicons.dev/icons?i=cpp" width="40"/> | <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=js" width="40"/> | <img src="https://skillicons.dev/icons?i=ts" width="40"/> | <img src="https://skillicons.dev/icons?i=dart" width="40"/> | <img src="https://skillicons.dev/icons?i=php" width="40"/> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| C | C++ | Java | Python | JavaScript | TypeScript | Dart | PHP |
 
 **Frontend**
 
@@ -113,7 +113,7 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 
 A breakdown of the languages I write most, based on my public repositories:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzid-48&layout=donut&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cbd5e1&border_radius=10&langs_count=8" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzid-48&layout=donut&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cbd5e1&border_radius=10&langs_count=8&hide=CMake,Swift,Kotlin,Objective-C,Batchfile" width="55%"/>
 
 </div>
 
