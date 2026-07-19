@@ -47,35 +47,27 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 
 **Languages**
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,dart&theme=dark" />
-</div>
-
-Level: Advanced in JavaScript & TypeScript, Intermediate in the rest
+| <img src="https://skillicons.dev/icons?i=c" width="40"/> | <img src="https://skillicons.dev/icons?i=cpp" width="40"/> | <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=js" width="40"/> | <img src="https://skillicons.dev/icons?i=ts" width="40"/> | <img src="https://skillicons.dev/icons?i=dart" width="40"/> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| C | C++ | Java | Python | JavaScript | TypeScript | Dart |
 
 **Frontend**
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,flutter&theme=dark" />
-</div>
-
-Level: Advanced
+| <img src="https://skillicons.dev/icons?i=nextjs" width="40"/> | <img src="https://skillicons.dev/icons?i=react" width="40"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=css" width="40"/> | <img src="https://skillicons.dev/icons?i=flutter" width="40"/> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Next.js | React | Tailwind | HTML5 | CSS3 | Flutter |
 
 **Backend**
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
-</div>
-
-Level: Advanced
+| <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> | <img src="https://skillicons.dev/icons?i=express" width="40"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> | <img src="https://skillicons.dev/icons?i=firebase" width="40"/> |
+|:---:|:---:|:---:|:---:|:---:|
+| Node.js | Express | MongoDB | MySQL | Firebase |
 
 **Tools**
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma&theme=dark" />
-</div>
-
-Level: Advanced
+| <img src="https://skillicons.dev/icons?i=git" width="40"/> | <img src="https://skillicons.dev/icons?i=github" width="40"/> | <img src="https://skillicons.dev/icons?i=vscode" width="40"/> | <img src="https://skillicons.dev/icons?i=vercel" width="40"/> | <img src="https://skillicons.dev/icons?i=postman" width="40"/> | <img src="https://skillicons.dev/icons?i=figma" width="40"/> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Git | GitHub | VS Code | Vercel | Postman | Figma |
 
 <br/>
 
