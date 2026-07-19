@@ -45,22 +45,28 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 
 ### 🛠️ Skills
 
-**Languages**
+**Languages** &nbsp;<sub>*most comfortable with JavaScript & TypeScript*</sub>
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,dart&theme=dark" />
 </div>
 
-**Frontend**
+**Frontend** &nbsp;<sub>*daily driver: Next.js + Tailwind*</sub>
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css&theme=dark" />
 </div>
 
-**Backend & Tools**
+**Backend** &nbsp;<sub>*daily driver: Express + MongoDB*</sub>
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,git,github,vercel,vscode,postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+</div>
+
+**Tools**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,figma&theme=dark" />
 </div>
 
 <br/>
