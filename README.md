@@ -111,7 +111,7 @@ A breakdown of the languages I write most, based on my public repositories:
 ### 🔥 Streak Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanzid-48&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=tanzid-48&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 ---
