@@ -105,7 +105,7 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 
 A breakdown of the languages I write most, based on my public repositories:
 
-<img src="https://github-readme-stats-pzlh.vercel.app/api/top-langs/?username=tanzid-48&layout=donut&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cbd5e1&border_radius=10&langs_count=8&hide=CMake,Swift,Kotlin,Objective-C,Batchfile" width="55%"/>
+<img src="https://github-readme-stats-pzlh.vercel.app/api/top-langs/?username=tanzid-48&layout=donut&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cbd5e1&border_radius=10&langs_count=10&hide=CMake,Swift,Kotlin,Objective-C,Batchfile" width="55%"/>
 
 </div>
 
