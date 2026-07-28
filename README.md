@@ -93,7 +93,7 @@ I'm a 7th-semester B.Sc. CSE student at Pundra University of Science & Technolog
 
 <div align="center">
 
-<a href="https://tanzid-portfolio.vercel.app/"><img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="tanzid-portfolio-ah38.vercel.app"><img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
